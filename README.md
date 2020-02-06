@@ -24,3 +24,9 @@ npm run test
 ```
 npm run lint
 ```
+
+
+https://arduino.stackexchange.com/questions/3182/what-is-the-frequency-of-pwm-output-on-arduino
+http://www.righto.com/2009/07/secrets-of-arduino-pwm.html
+https://playground.arduino.cc/Main/TimerPWMCheatsheet/
+http://www.openmusiclabs.com/learning/digital/pwm-dac.1.html
