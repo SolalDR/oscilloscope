@@ -1,3 +1,3 @@
 # Oscilloscope
 
-Simple oscilloscope to generate sinusoidal, triangle and squared signal and convert it into PWM (Pulse With Modulation) signal 
+Simple oscilloscope to generate sinusoidal, triangled and squared signal and convert it into PWM (Pulse Width Modulation) signal 
